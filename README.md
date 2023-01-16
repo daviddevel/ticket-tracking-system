@@ -14,7 +14,7 @@
    ```sh
 
     # Enter the project directory
-    cd bug-tracker
+    cd ticket-tracking-system
 
     # Copy env file and add your own database and mail credentials
     cp .env.example .env
